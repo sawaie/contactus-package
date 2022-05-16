@@ -1,0 +1,19 @@
+{
+    "name": "bitfumes/contact",
+    "description": "this will send email to Admin and save contact query in Database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad",
+            "email": "ahmad@completechaintech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bitfumes\\Contact\\": "src/"
+        }
+    }
+}
